@@ -1,0 +1,242 @@
+[
+  {
+    "fragor": "1. Har du mycket fritid under veckodagarna?",
+    "ja": [
+      2,
+      1,
+      0,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      2,
+      2
+    ]
+  },
+  {
+    "fragor": "2. Tycker du om att vara utomhus?",
+    "ja": [
+      2,
+      1,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "fragor": "3. Har du tid för dagliga promenader?",
+    "ja": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "nej": [
+      0,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "fragor": "4. Har du tid att vara med ditt husdjur varje dag?",
+    "ja": [
+      2,
+      1,
+      0,
+      1
+    ],
+    "nej": [
+      0,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "fragor": "5. Resor du ofta?",
+    "ja": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "nej": [
+      2,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "fragor": "6. Har du en större bostad?",
+    "ja": [
+      2,
+      1,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "fragor": "7. Har du tid och intresse att utbilda ditt husdjur?",
+    "ja": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "nej": [
+      0,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "fragor": "8. Vill du ha ett tyst husdjur?",
+    "ja": [
+      0,
+      1,
+      2,
+      2
+    ],
+    "nej": [
+      2,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "fragor": "9. Är du beredd att spendera pengar på husdjursskötsel?",
+    "ja": [
+      2,
+      1,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "fragor": "10. Vill du ha ett lättskött husdjur?",
+    "ja": [
+      0,
+      1,
+      1,
+      2
+    ],
+    "nej": [
+      2,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "fragor": "11. Vill du ha ett djur som är bra med andra människor?",
+    "ja": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "nej": [
+      0,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "fragor": "12. Är du beredd att spendera pengar på husdjursskötsel?",
+    "ja": [
+      2,
+      1,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "fragor": "13. Är du intresserad av att tävla i kaninutställningar?",
+    "ja": [
+      0,
+      0,
+      2,
+      0
+    ],
+    "nej": [
+      2,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "fragor": "14. Vill du ha ett husdjur som är aktivt och lekfullt?",
+    "ja": [
+      2,
+      1,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "fragor": "15. Är du villig att städa upp efter ditt djur?",
+    "ja": [
+      1,
+      2,
+      2,
+      1
+    ],
+    "nej": [
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "fragor": "16. Är du allergisk mot pälsdjur?",
+    "ja": [
+      0,
+      0,
+      0,
+      2
+    ],
+    "nej": [
+      2,
+      2,
+      2,
+      0
+    ]
+  }
+]
